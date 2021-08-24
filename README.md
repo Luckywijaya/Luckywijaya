@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luckywijaya
+- 👋 Hi, I’m @Luckywijaya, it pronounce look-key :)
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Python, SQL, Tableau
 - 💞️ I’m looking to collaborate on Data Analytics, Data Science, and other related fields
